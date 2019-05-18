@@ -1,2 +1,2 @@
 # AccountCreator
-Account Creator for WYD
+Account Creator - Ferramenta de Criação de Contas para Servidores 7.58
